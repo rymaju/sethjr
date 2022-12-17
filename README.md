@@ -23,3 +23,7 @@ Install the relevant Interbotix software ([instructions](https://sethpate.github
 ```
 pip install whisper torch 
 ```
+
+## Usage
+
+Run the command to start the robot (see instructions above) then run https://github.com/rymaju/sethjr/blob/master/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/python_demos/sentiment_text.py
